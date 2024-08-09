@@ -33,13 +33,13 @@ The color options for the to-do blocks can be inserted manually into the databas
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YuriMont/dslist
+   git clone https://github.com/YuriMont/corelab-web-challenge
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd dslist/server
+   cd ./corelab-web-challenge/server
    ```
 
 3. **Install dependencies:**
@@ -88,7 +88,7 @@ VITE_API_BACKEND_URL="http://localhost:3333"
 1. **Navigate to the web directory:**
 
    ```bash
-   cd dslist/web
+   cd ./corelab-web-challenge/web
    ```
 
 2. **Install dependencies:**
